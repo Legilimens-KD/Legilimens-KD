@@ -1,4 +1,4 @@
-👋 Hi, I’m @Legilimens-KD, a woman in STEM, Scientist and Project Analyst.
+👋 Hi, I’m @Legilimens-KD, a woman in STEM.
 
 👀 I’m interested in Data Science, Data analysis for business and project management. 
 
